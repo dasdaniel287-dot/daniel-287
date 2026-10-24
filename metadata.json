@@ -1,0 +1,6 @@
+{
+  "name": "Jerves AI",
+  "description": "Futuristic AI personal assistant with voice, smart tasks, knowledge insights, and daily briefings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
